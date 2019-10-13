@@ -1,0 +1,11 @@
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\TresDatos\bin\Debug\netcoreapp3.0\TresDatos.exe
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\TresDatos\bin\Debug\netcoreapp3.0\TresDatos.deps.json
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\TresDatos\bin\Debug\netcoreapp3.0\TresDatos.runtimeconfig.json
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\TresDatos\bin\Debug\netcoreapp3.0\TresDatos.runtimeconfig.dev.json
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\TresDatos\bin\Debug\netcoreapp3.0\TresDatos.dll
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\TresDatos\bin\Debug\netcoreapp3.0\TresDatos.pdb
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\TresDatos\obj\Debug\netcoreapp3.0\TresDatos.csprojAssemblyReference.cache
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\TresDatos\obj\Debug\netcoreapp3.0\TresDatos.AssemblyInfoInputs.cache
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\TresDatos\obj\Debug\netcoreapp3.0\TresDatos.AssemblyInfo.cs
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\TresDatos\obj\Debug\netcoreapp3.0\TresDatos.dll
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\TresDatos\obj\Debug\netcoreapp3.0\TresDatos.pdb

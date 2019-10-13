@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TresDatos", "TresDatos.csproj", "{771593EF-B878-4984-A9CE-A71BDC74DF8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{771593EF-B878-4984-A9CE-A71BDC74DF8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{771593EF-B878-4984-A9CE-A71BDC74DF8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{771593EF-B878-4984-A9CE-A71BDC74DF8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{771593EF-B878-4984-A9CE-A71BDC74DF8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6775504F-D777-4C16-8547-E91C6DED4707}
+	EndGlobalSection
+EndGlobal
