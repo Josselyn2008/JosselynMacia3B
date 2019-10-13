@@ -1,0 +1,11 @@
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\TabladeMultiplicar\bin\Debug\netcoreapp3.0\TabladeMultiplicar.exe
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\TabladeMultiplicar\bin\Debug\netcoreapp3.0\TabladeMultiplicar.deps.json
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\TabladeMultiplicar\bin\Debug\netcoreapp3.0\TabladeMultiplicar.runtimeconfig.json
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\TabladeMultiplicar\bin\Debug\netcoreapp3.0\TabladeMultiplicar.runtimeconfig.dev.json
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\TabladeMultiplicar\bin\Debug\netcoreapp3.0\TabladeMultiplicar.dll
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\TabladeMultiplicar\bin\Debug\netcoreapp3.0\TabladeMultiplicar.pdb
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\TabladeMultiplicar\obj\Debug\netcoreapp3.0\TabladeMultiplicar.csprojAssemblyReference.cache
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\TabladeMultiplicar\obj\Debug\netcoreapp3.0\TabladeMultiplicar.AssemblyInfoInputs.cache
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\TabladeMultiplicar\obj\Debug\netcoreapp3.0\TabladeMultiplicar.AssemblyInfo.cs
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\TabladeMultiplicar\obj\Debug\netcoreapp3.0\TabladeMultiplicar.dll
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\TabladeMultiplicar\obj\Debug\netcoreapp3.0\TabladeMultiplicar.pdb
