@@ -1,0 +1,11 @@
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\ColumnasNumero\bin\Debug\netcoreapp3.0\ColumnasNumero.exe
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\ColumnasNumero\bin\Debug\netcoreapp3.0\ColumnasNumero.deps.json
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\ColumnasNumero\bin\Debug\netcoreapp3.0\ColumnasNumero.runtimeconfig.json
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\ColumnasNumero\bin\Debug\netcoreapp3.0\ColumnasNumero.runtimeconfig.dev.json
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\ColumnasNumero\bin\Debug\netcoreapp3.0\ColumnasNumero.dll
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\ColumnasNumero\bin\Debug\netcoreapp3.0\ColumnasNumero.pdb
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\ColumnasNumero\obj\Debug\netcoreapp3.0\ColumnasNumero.csprojAssemblyReference.cache
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\ColumnasNumero\obj\Debug\netcoreapp3.0\ColumnasNumero.AssemblyInfoInputs.cache
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\ColumnasNumero\obj\Debug\netcoreapp3.0\ColumnasNumero.AssemblyInfo.cs
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\ColumnasNumero\obj\Debug\netcoreapp3.0\ColumnasNumero.dll
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\ColumnasNumero\obj\Debug\netcoreapp3.0\ColumnasNumero.pdb
