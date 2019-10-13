@@ -1,0 +1,11 @@
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\Factura\bin\Debug\netcoreapp3.0\Factura.exe
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\Factura\bin\Debug\netcoreapp3.0\Factura.deps.json
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\Factura\bin\Debug\netcoreapp3.0\Factura.runtimeconfig.json
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\Factura\bin\Debug\netcoreapp3.0\Factura.runtimeconfig.dev.json
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\Factura\bin\Debug\netcoreapp3.0\Factura.dll
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\Factura\bin\Debug\netcoreapp3.0\Factura.pdb
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\Factura\obj\Debug\netcoreapp3.0\Factura.csprojAssemblyReference.cache
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\Factura\obj\Debug\netcoreapp3.0\Factura.AssemblyInfoInputs.cache
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\Factura\obj\Debug\netcoreapp3.0\Factura.AssemblyInfo.cs
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\Factura\obj\Debug\netcoreapp3.0\Factura.dll
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\Factura\obj\Debug\netcoreapp3.0\Factura.pdb
