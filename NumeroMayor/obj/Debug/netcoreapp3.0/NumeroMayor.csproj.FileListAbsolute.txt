@@ -1,0 +1,11 @@
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\NumeroMayor\bin\Debug\netcoreapp3.0\NumeroMayor.exe
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\NumeroMayor\bin\Debug\netcoreapp3.0\NumeroMayor.deps.json
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\NumeroMayor\bin\Debug\netcoreapp3.0\NumeroMayor.runtimeconfig.json
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\NumeroMayor\bin\Debug\netcoreapp3.0\NumeroMayor.runtimeconfig.dev.json
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\NumeroMayor\bin\Debug\netcoreapp3.0\NumeroMayor.dll
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\NumeroMayor\bin\Debug\netcoreapp3.0\NumeroMayor.pdb
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\NumeroMayor\obj\Debug\netcoreapp3.0\NumeroMayor.csprojAssemblyReference.cache
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\NumeroMayor\obj\Debug\netcoreapp3.0\NumeroMayor.AssemblyInfoInputs.cache
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\NumeroMayor\obj\Debug\netcoreapp3.0\NumeroMayor.AssemblyInfo.cs
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\NumeroMayor\obj\Debug\netcoreapp3.0\NumeroMayor.dll
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\NumeroMayor\obj\Debug\netcoreapp3.0\NumeroMayor.pdb
