@@ -1,0 +1,11 @@
+C:\Users\josym\source\repos\Pila_Cola\bin\Debug\netcoreapp3.0\Pila_Cola.exe
+C:\Users\josym\source\repos\Pila_Cola\bin\Debug\netcoreapp3.0\Pila_Cola.deps.json
+C:\Users\josym\source\repos\Pila_Cola\bin\Debug\netcoreapp3.0\Pila_Cola.runtimeconfig.json
+C:\Users\josym\source\repos\Pila_Cola\bin\Debug\netcoreapp3.0\Pila_Cola.runtimeconfig.dev.json
+C:\Users\josym\source\repos\Pila_Cola\bin\Debug\netcoreapp3.0\Pila_Cola.dll
+C:\Users\josym\source\repos\Pila_Cola\bin\Debug\netcoreapp3.0\Pila_Cola.pdb
+C:\Users\josym\source\repos\Pila_Cola\obj\Debug\netcoreapp3.0\Pila_Cola.csprojAssemblyReference.cache
+C:\Users\josym\source\repos\Pila_Cola\obj\Debug\netcoreapp3.0\Pila_Cola.AssemblyInfoInputs.cache
+C:\Users\josym\source\repos\Pila_Cola\obj\Debug\netcoreapp3.0\Pila_Cola.AssemblyInfo.cs
+C:\Users\josym\source\repos\Pila_Cola\obj\Debug\netcoreapp3.0\Pila_Cola.dll
+C:\Users\josym\source\repos\Pila_Cola\obj\Debug\netcoreapp3.0\Pila_Cola.pdb

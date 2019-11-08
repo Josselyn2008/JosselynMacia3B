@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Pila_Cola/1.0.0": {
+        "runtime": {
+          "Pila_Cola.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pila_Cola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
