@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Programa_Integrado/1.0.0": {
+        "runtime": {
+          "Programa_Integrado.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Programa_Integrado/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

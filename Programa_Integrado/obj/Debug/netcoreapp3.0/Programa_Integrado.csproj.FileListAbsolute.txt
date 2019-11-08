@@ -1,0 +1,11 @@
+C:\Users\josym\source\repos\Programa_Integrado\bin\Debug\netcoreapp3.0\Programa_Integrado.exe
+C:\Users\josym\source\repos\Programa_Integrado\bin\Debug\netcoreapp3.0\Programa_Integrado.deps.json
+C:\Users\josym\source\repos\Programa_Integrado\bin\Debug\netcoreapp3.0\Programa_Integrado.runtimeconfig.json
+C:\Users\josym\source\repos\Programa_Integrado\bin\Debug\netcoreapp3.0\Programa_Integrado.runtimeconfig.dev.json
+C:\Users\josym\source\repos\Programa_Integrado\bin\Debug\netcoreapp3.0\Programa_Integrado.dll
+C:\Users\josym\source\repos\Programa_Integrado\bin\Debug\netcoreapp3.0\Programa_Integrado.pdb
+C:\Users\josym\source\repos\Programa_Integrado\obj\Debug\netcoreapp3.0\Programa_Integrado.csprojAssemblyReference.cache
+C:\Users\josym\source\repos\Programa_Integrado\obj\Debug\netcoreapp3.0\Programa_Integrado.AssemblyInfoInputs.cache
+C:\Users\josym\source\repos\Programa_Integrado\obj\Debug\netcoreapp3.0\Programa_Integrado.AssemblyInfo.cs
+C:\Users\josym\source\repos\Programa_Integrado\obj\Debug\netcoreapp3.0\Programa_Integrado.dll
+C:\Users\josym\source\repos\Programa_Integrado\obj\Debug\netcoreapp3.0\Programa_Integrado.pdb
