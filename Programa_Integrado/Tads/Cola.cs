@@ -6,55 +6,50 @@ namespace Programa_Integrado.Tads
 {
     class Cola
     {
-        private int[] dato = new int[5];
-        public int[] Dato
+        private int[] cantidad = new int[10];
+        public int[] Cantidad
         {
-            get { return dato; }
-            set { dato = value; }
+            get { return cantidad; }
+            set { cantidad = value; }
         }
-        private int ultimo = -1;
+        private int extremo = -1;
 
-        public int Ultimo
+        public int Extremo
         {
-            get { return ultimo; }
-            set { ultimo = value; }
+            get { return extremo; }
+            set { extremo = value; }
         }
-        private int primero = -1;
+        private int principal = -1;
 
-        public int Primero
+        public int Principal
         {
-            get { return primero; }
-            set { primero = value; }
-        }
-
-        internal void cola()
-        {
-            throw new NotImplementedException();
+            get { return principal; }
+            set { principal = value; }
         }
 
         public void EliminarDato()
         {
-            if (Ultimo == -1 && Primero == -1)
-                throw new Exception("No hay datos en la Pila");
+            if (Extremo == -1 && Principal == -1)
+                throw new Exception("Esta cola esta vacia");
             else
             {
-                if (Primero == Ultimo)
+                if (Principal == Extremo)
                 {
-                    Primero = -1;
-                    Ultimo = -1;
+                    Principal = -1;
+                    Extremo = -1;
                 }
                 else
                 {
-                    Primero++;
+                    Principal=Principal+1;
                 }
             }
         }
-        public void Anadirdato(int numero)
+        public void Añadirdatos(int numero)
         {
-            if (Ultimo < (Dato.Length - 1))
+            if (Extremo < (Cantidad.Length - 1))
             {
-                Ultimo++;
-                Dato[Ultimo] = numero;
+                Extremo=Extremo+1;
+                Cantidad[Extremo] = numero;
             }
         }
 

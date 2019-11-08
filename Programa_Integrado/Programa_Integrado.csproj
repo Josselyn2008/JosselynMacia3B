@@ -5,8 +5,4 @@
     <TargetFramework>netcoreapp3.0</TargetFramework>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Include="C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\TADS.cs" Link="TADS.cs" />
-  </ItemGroup>
-
 </Project>

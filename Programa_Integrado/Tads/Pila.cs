@@ -6,57 +6,33 @@ namespace Programa_Integrado.Tads
 {
     public class Pila
     {
-        private int[] dato = new int[10];
-        public int[] Dato
+        private int[] datos = new int[10];
+        public int[] Datos
         {
-            get { return dato; }
-            set { dato = value; }
+            get { return datos; }
+            set { datos = value; }
         }
-        private int ultimo = -1;
+        private int arriba = -1;
 
-        public int Ultimo
+        public int Arriba
         {
-            get { return ultimo; }
-            set { ultimo = value; }
+            get { return arriba; }
+            set { arriba = value; }
         }
-        private int primero = -1;
-
-        internal void pila()
+        public void EliminarDatos()
         {
-            throw new NotImplementedException();
-        }
-
-        public int Primero
-        {
-            get { return primero; }
-            set { primero = value; }
-        }
-
-        public void EliminarDato()
-        {
-            if (Ultimo == -1 && Primero == -1)
-                throw new Exception("No hay datos en la Pila");
+            if (Arriba == -1)
+                throw new Exception("Esta pila esta vacia ");
             else
-            {
-                if (Primero == Ultimo)
-                {
-                    Primero = -1;
-                    Ultimo = -1;
-                }
-                else
-                {
-                    Primero++;
-                }
-            }
+                Arriba=Arriba-1;
         }
-        public void Anadirdato(int numero)
+        public void Anadir(int numero)
         {
-            if (Ultimo < (Dato.Length - 1))
+            if (Arriba < (Datos.Length - 1))
             {
-                Ultimo++;
-                Dato[Ultimo] = numero;
+                Arriba=Arriba+1;
+                Datos[Arriba] = numero;
             }
         }
-
     }
 }
