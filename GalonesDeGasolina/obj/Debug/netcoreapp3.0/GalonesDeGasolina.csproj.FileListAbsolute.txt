@@ -1,0 +1,11 @@
+C:\Users\josym\source\repos\GalonesDeGasolina\bin\Debug\netcoreapp3.0\GalonesDeGasolina.exe
+C:\Users\josym\source\repos\GalonesDeGasolina\bin\Debug\netcoreapp3.0\GalonesDeGasolina.deps.json
+C:\Users\josym\source\repos\GalonesDeGasolina\bin\Debug\netcoreapp3.0\GalonesDeGasolina.runtimeconfig.json
+C:\Users\josym\source\repos\GalonesDeGasolina\bin\Debug\netcoreapp3.0\GalonesDeGasolina.runtimeconfig.dev.json
+C:\Users\josym\source\repos\GalonesDeGasolina\bin\Debug\netcoreapp3.0\GalonesDeGasolina.dll
+C:\Users\josym\source\repos\GalonesDeGasolina\bin\Debug\netcoreapp3.0\GalonesDeGasolina.pdb
+C:\Users\josym\source\repos\GalonesDeGasolina\obj\Debug\netcoreapp3.0\GalonesDeGasolina.csprojAssemblyReference.cache
+C:\Users\josym\source\repos\GalonesDeGasolina\obj\Debug\netcoreapp3.0\GalonesDeGasolina.AssemblyInfoInputs.cache
+C:\Users\josym\source\repos\GalonesDeGasolina\obj\Debug\netcoreapp3.0\GalonesDeGasolina.AssemblyInfo.cs
+C:\Users\josym\source\repos\GalonesDeGasolina\obj\Debug\netcoreapp3.0\GalonesDeGasolina.dll
+C:\Users\josym\source\repos\GalonesDeGasolina\obj\Debug\netcoreapp3.0\GalonesDeGasolina.pdb
