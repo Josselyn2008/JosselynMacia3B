@@ -1,0 +1,11 @@
+C:\Users\josym\source\repos\TAREA-GALONES-DE-GASOLINA\bin\Debug\netcoreapp3.0\TAREA-GALONES-DE-GASOLINA.exe
+C:\Users\josym\source\repos\TAREA-GALONES-DE-GASOLINA\bin\Debug\netcoreapp3.0\TAREA-GALONES-DE-GASOLINA.deps.json
+C:\Users\josym\source\repos\TAREA-GALONES-DE-GASOLINA\bin\Debug\netcoreapp3.0\TAREA-GALONES-DE-GASOLINA.runtimeconfig.json
+C:\Users\josym\source\repos\TAREA-GALONES-DE-GASOLINA\bin\Debug\netcoreapp3.0\TAREA-GALONES-DE-GASOLINA.runtimeconfig.dev.json
+C:\Users\josym\source\repos\TAREA-GALONES-DE-GASOLINA\bin\Debug\netcoreapp3.0\TAREA-GALONES-DE-GASOLINA.dll
+C:\Users\josym\source\repos\TAREA-GALONES-DE-GASOLINA\bin\Debug\netcoreapp3.0\TAREA-GALONES-DE-GASOLINA.pdb
+C:\Users\josym\source\repos\TAREA-GALONES-DE-GASOLINA\obj\Debug\netcoreapp3.0\TAREA-GALONES-DE-GASOLINA.csprojAssemblyReference.cache
+C:\Users\josym\source\repos\TAREA-GALONES-DE-GASOLINA\obj\Debug\netcoreapp3.0\TAREA-GALONES-DE-GASOLINA.AssemblyInfoInputs.cache
+C:\Users\josym\source\repos\TAREA-GALONES-DE-GASOLINA\obj\Debug\netcoreapp3.0\TAREA-GALONES-DE-GASOLINA.AssemblyInfo.cs
+C:\Users\josym\source\repos\TAREA-GALONES-DE-GASOLINA\obj\Debug\netcoreapp3.0\TAREA-GALONES-DE-GASOLINA.dll
+C:\Users\josym\source\repos\TAREA-GALONES-DE-GASOLINA\obj\Debug\netcoreapp3.0\TAREA-GALONES-DE-GASOLINA.pdb
