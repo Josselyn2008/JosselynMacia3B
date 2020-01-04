@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "TareaPoo2P/1.0.0": {
+        "runtime": {
+          "TareaPoo2P.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TareaPoo2P/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

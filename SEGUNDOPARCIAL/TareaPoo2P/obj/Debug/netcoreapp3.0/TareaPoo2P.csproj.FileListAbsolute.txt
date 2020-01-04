@@ -1,0 +1,11 @@
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\TareaPoo2P\bin\Debug\netcoreapp3.0\TareaPoo2P.exe
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\TareaPoo2P\bin\Debug\netcoreapp3.0\TareaPoo2P.deps.json
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\TareaPoo2P\bin\Debug\netcoreapp3.0\TareaPoo2P.runtimeconfig.json
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\TareaPoo2P\bin\Debug\netcoreapp3.0\TareaPoo2P.runtimeconfig.dev.json
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\TareaPoo2P\bin\Debug\netcoreapp3.0\TareaPoo2P.dll
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\TareaPoo2P\bin\Debug\netcoreapp3.0\TareaPoo2P.pdb
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\TareaPoo2P\obj\Debug\netcoreapp3.0\TareaPoo2P.csprojAssemblyReference.cache
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\TareaPoo2P\obj\Debug\netcoreapp3.0\TareaPoo2P.AssemblyInfoInputs.cache
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\TareaPoo2P\obj\Debug\netcoreapp3.0\TareaPoo2P.AssemblyInfo.cs
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\TareaPoo2P\obj\Debug\netcoreapp3.0\TareaPoo2P.dll
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\TareaPoo2P\obj\Debug\netcoreapp3.0\TareaPoo2P.pdb
